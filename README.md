@@ -69,8 +69,8 @@ pip install pandas yfinance nselib jugaad-data
 ### Installation
 
 ``` bash
-git clone https://github.com/yourusername/swing-trading-scanner.git
-cd swing-trading-scanner
+git clone https://github.com/pandiyan07/NSE-Swing-Trading-Market-Scanner.git
+cd NSE-Swing-Trading-Market-Scanner
 pip install -r requirements.txt
 python "SWING trading v1.py"
 ```
