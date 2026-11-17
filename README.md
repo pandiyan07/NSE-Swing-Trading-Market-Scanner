@@ -21,6 +21,8 @@
 
 ## About The Project
 
+Built on - June 2024
+
 This project is a multiprocessing-based swing trading scanner for Indian
 equities. It combines Yahoo Finance, NSELive (Jugaad Data), and NSELib
 data to identify abnormal volume activity, stocks near weekly highs/lows
